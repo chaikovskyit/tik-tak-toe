@@ -47,8 +47,8 @@ class Game extends React.Component {
 					<ol>{/*TODO*/}</ol>
 				</div>
 			</div>
-		);
-	}
+    );
+  }
 }
 
 ReactDOM.render(<Game />, document.getElementById('root'));
